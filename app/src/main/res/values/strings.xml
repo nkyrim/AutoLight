@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoLight</string>
+    <string name="current_lux">Current light level: </string>
+    <string name="define_lux">Define minimum light level: </string>
+    <string name="no_camera_error">The device does not have a camera!</string>
+    <string name="no_flash_error">The device does not have a flash!</string>
+    <string name="no_sensor_error">The device does not have a light sensor!</string>
+    <string name="flashlight_open_error">Error opening the flashlight!</string>
+    <string name="flashlight_close_error">Error closing the flashlight!</string>
+</resources>
